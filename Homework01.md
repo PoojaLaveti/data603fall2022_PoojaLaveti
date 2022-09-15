@@ -50,5 +50,7 @@ Even though the machine may be able to handle all the data still human intervent
 ### Sources:
 Lecture 2 PPT slides from professor
 https://www.upgrad.com/blog/what-is-big-data-types-characteristics-benefits-and-examples/
+
 https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
+
 https://www.scnsoft.com/blog/big-data-challenges-and-their-solutions
