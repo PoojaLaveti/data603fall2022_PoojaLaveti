@@ -46,3 +46,9 @@ As the data is huge, it takes time to gain insights from the data. So the system
 Privacy is a very big challenge while maintaining huge information. As the projects are running by gaining insights from the data, if that data is not protected or secured then someone else may steal the insights we obtained for business decision makings.
 ### Challenge 5: Human Collaboration
 Even though the machine may be able to handle all the data still human intervention is necessary to judge the machine-produced results. It is possible for the machines to be biased or provide wrong results, so human collaboration is necessary to handle such issues.
+
+### Sources:
+Lecture 2 PPT slides from professor
+https://www.upgrad.com/blog/what-is-big-data-types-characteristics-benefits-and-examples/
+https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
+https://www.scnsoft.com/blog/big-data-challenges-and-their-solutions
