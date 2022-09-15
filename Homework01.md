@@ -25,24 +25,24 @@ Data has immense value as we gain useful information from it. Everyone's intenti
 
 ## Phases of Big Data Analysis
 ### Phase 1: Data Acquisition and Recording
-In this phase data is collected from diffrent sources. As it is collected from different sources it would be unstructured or would contain noise. That noise is filtered using different techniques and tools. After obtaining data without noise it should recorded for future use.
+In this phase, data is collected from different sources. As it is collected from different sources it would be unstructured or would contain noise. That noise is filtered using different techniques and tools. After obtaining data without noise it should be recorded for future use.
 ### Phase 2: Information Extraction and Cleaning
-Even after filteing the data without noise, we may need only some part of data for some analysis. At that time only the required data is extracted. As we concentrate on required amount of data, cleaning and gaining insights from the data becomes easy. Data Cleaning is the process of preparing the data without inconsistencies or noise.
+Even after filtering the data without noise, we may need only some part of the data for some analysis. At that time only the required data is extracted. As we concentrate on the required amount of data, cleaning and gaining insights from the data becomes easy. Data Cleaning is the process of preparing the data without inconsistencies or noise.
 ### Phase 3: Data Integration, Aggregation, and Representation
-If there are multiple datasets with some part of common information, then they can be joined using that common information. It helps in reducing inconsistencies and redundancies. Representation of the data in the form of charts, plots, pictures or maps makes it easy for the people to understand.
+If there are multiple datasets with some part of common information, then they can be joined using that common information. It helps in reducing inconsistencies and redundancies. Representation of the data in the form of charts, plots, pictures, or maps makes it easy for people to understand.
 ### Phase 4: Query Processing, Data Modeling, and Analysis
-Queries are used to obtain only the required part of data from the whole dataset. Data modeling provides us with an abstract or blue print of the data. Through that we can know what information does the dataset contain. Analysis is the process of gaining insights from the data. We can get trends or patterns from the data.
+Queries are used to obtain only the required part of data from the whole dataset. Data modeling provides us with an abstract or blueprint of the data. Through that, we can know what information the dataset contains. The analysis is the process of gaining insights from the data. We can get trends or patterns from the data.
 ### Phase 5: Interpretation
-If we are not sure about some information in the dataset. we can interpret that information through the patterns observed in the visualization and analysis process. Interpreted results can be used in business for decision making.
+If we are not sure about some information in the dataset. we can interpret that information through the patterns observed in the visualization and analysis process. Interpreted results can be used in business for decision-making.
 
 ## Challenges in Big Data Analysis
-### Challenge 1: Heterogenity and Incompleteness
+### Challenge 1: Heterogeneity and Incompleteness
 As the data is collected from different sources, there will be differences in the formats and some missing values in the data. Those differences and missing values may cause issues by giving wrong results while gaining insights. 
 ### Challenge 2: Scale
-With the continous increase of data, challenges to maintain it also increases. Storage devices to store the data and the cost to maintain the infrastructure increases.
+With the continuous increase of data, challenges to maintain it also increases. Storage devises to store the data and the cost to maintain the infrastructure increases.
 ### Challenge 3: Timelines
-As the data is huge, it takes time to gain insights from the data. So the systems performance and the time required to gain the insights becomes a problem when no good techniques and tools are followed. 
+As the data is huge, it takes time to gain insights from the data. So the systems performance and the time required to gain the insights become a problem when no good techniques and tools are followed. 
 ### Challenge 4: Privacy
-Privacy is a very big challenge while maintaing huge information. As the projects are running by gaining insights from the data, if that data is not protected or secured then someone else may steal the insights we obtained for business decision makings.
+Privacy is a very big challenge while maintaining huge information. As the projects are running by gaining insights from the data, if that data is not protected or secured then someone else may steal the insights we obtained for business decision makings.
 ### Challenge 5: Human Collaboration
-Even though machine may be able handle all the data still human intervention is necessary in order to judge the machine produced results. It is possible for the machines to be baised or provide wrong results, so human collaboration is necessary to handle such issues.
+Even though the machine may be able to handle all the data still human intervention is necessary to judge the machine-produced results. It is possible for the machines to be biased or provide wrong results, so human collaboration is necessary to handle such issues.
