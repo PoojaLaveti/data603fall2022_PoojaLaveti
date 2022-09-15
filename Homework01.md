@@ -22,3 +22,13 @@ Veracity refers to the accuracy and quality of the data. The data must be mainta
 ### value
 Data has immense value as we gain useful information from it. Everyone's intention for storing a large amount of data is to gain something valuable from it. 
 ## Phases of Big Data Analysis
+### Phase 1: Data Acquisition and Recording
+In this phase data is collected from diffrent sources. As it is collected from different sources it would be unstructured or would contain noise. That noise is filtered using different techniques and tools. After obtaining data without noise it should recorded for future use.
+### Phase 2: Information Extraction and Cleaning
+Even after filteing the data without noise, we may need only some part of data for some analysis. At that time only the required data is extracted. As we concentrate on required amount of data, cleaning and gaining insights from the data becomes easy. Data Cleaning is the process of preparing the data without inconsistencies or noise.
+### Phase 3: Data Integration, Aggregation, and Representation
+If there are multiple datasets with some part of common information, then they can be joined using that common information. It helps in reducing inconsistencies and redundancies. Representation of the data in the form of charts, plots, pictures or maps makes it easy for the people to understand.
+### Phase 4: Query Processing, Data Modeling, and Analysis
+Queries are used to obtain only the required part of data from the whole dataset. Data modeling provides us with an abstract or blue print of the data. Through that we can know what information does the dataset contain. Analysis is the process of gaining insights from the data. We can get trends or patterns from the data.
+### Phase 5: Interpretation
+If we are not sure about some information in the dataset. we can interpret that information through the patterns observed in the visualization and analysis process. Interpreted results can be used in business for decision making.
