@@ -8,6 +8,7 @@ Structured data is organized data, that is easy to access, read and manipulate. 
 Structured data is unorganized data, that is difficult to access, read and manipulate. It takes a lot of time and effort to gain insights from unstructured data. Email is an example of unstructured data, containing spam mails that are difficult to separate from original ones.
 ### Semi Structured Data
 Semi-Structured data is a combination of both structured and unstructured. It contains data that is important but unorganized mostly.
+
 ## 6 V's of Big Data
 ### Volume
 As described the volume of big data is so huge and it takes a lot of effort to process and gain insights from the data. It takes multiple machines, tools, and techniques to store and use them when needed.
@@ -21,6 +22,7 @@ Variability refers to inconsistency, that is the way the data gets changed from 
 Veracity refers to the accuracy and quality of the data. The data must be maintained with relevant information so that gaining insights from the data will be achieved accurately.
 ### value
 Data has immense value as we gain useful information from it. Everyone's intention for storing a large amount of data is to gain something valuable from it. 
+
 ## Phases of Big Data Analysis
 ### Phase 1: Data Acquisition and Recording
 In this phase data is collected from diffrent sources. As it is collected from different sources it would be unstructured or would contain noise. That noise is filtered using different techniques and tools. After obtaining data without noise it should recorded for future use.
@@ -32,3 +34,15 @@ If there are multiple datasets with some part of common information, then they c
 Queries are used to obtain only the required part of data from the whole dataset. Data modeling provides us with an abstract or blue print of the data. Through that we can know what information does the dataset contain. Analysis is the process of gaining insights from the data. We can get trends or patterns from the data.
 ### Phase 5: Interpretation
 If we are not sure about some information in the dataset. we can interpret that information through the patterns observed in the visualization and analysis process. Interpreted results can be used in business for decision making.
+
+## Challenges in Big Data Analysis
+### Challenge 1: Heterogenity and Incompleteness
+As the data is collected from different sources, there will be differences in the formats and some missing values in the data. Those differences and missing values may cause issues by giving wrong results while gaining insights. 
+### Challenge 2: Scale
+With the continous increase of data, challenges to maintain it also increases. Storage devices to store the data and the cost to maintain the infrastructure increases.
+### Challenge 3: Timelines
+As the data is huge, it takes time to gain insights from the data. So the systems performance and the time required to gain the insights becomes a problem when no good techniques and tools are followed. 
+### Challenge 4: Privacy
+Privacy is a very big challenge while maintaing huge information. As the projects are running by gaining insights from the data, if that data is not protected or secured then someone else may steal the insights we obtained for business decision makings.
+### Challenge 5: Human Collaboration
+Even though machine may be able handle all the data still human intervention is necessary in order to judge the machine produced results. It is possible for the machines to be baised or provide wrong results, so human collaboration is necessary to handle such issues.
